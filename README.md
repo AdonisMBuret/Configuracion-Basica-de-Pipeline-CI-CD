@@ -1,2 +1,2 @@
-# Configuraci-n-B-sica-de-Pipeline-CI-CD
+# Configuración Básica de Pipeline
 Práctica 3 Electiva 1
